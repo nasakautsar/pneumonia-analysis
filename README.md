@@ -29,10 +29,9 @@ VGG16 (Transfer Learning)
 ---
 
 ## Results
-Test Accuracy
-87%
+Test Accuracy: 87%
 
-Classification Performance,
+Classification Performance
  - Pneumonia Recall: 0.99
  - Normal Recall: 0.67
 
@@ -83,7 +82,7 @@ Loss
 ## How to Run,
 1. Install dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 2. Open Notebook:
    notebook/pneumonia_classification.ipynb
