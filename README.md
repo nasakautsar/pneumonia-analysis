@@ -1,4 +1,4 @@
-# Pneumonia Classification using Deep Learning,
+# Pneumonia Detection from Chest X-Ray using CNN & VGG16
  
 ## Overview
 This project focuses on classifying chest X-ray images into Normal and Pneumonia using deep learning techniques.
@@ -93,6 +93,13 @@ Loss
 
 ## Dataset
 Chest X-ray Pneumonia dataset from Kaggle.
+
+---
+
+## Future Improvements,
+- Handle class imbalance using weighted loss / augmentation,
+- Try EfficientNet / ResNet,
+- Deploy model as web app (Streamlit)
 
 ---
 
