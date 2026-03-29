@@ -17,3 +17,10 @@ The model prioritizes detecting pneumonia (high recall), minimizing false negati
 
 ## Confusion Matrix,
 ![Confusion Matrix](images/confusion_matrix.png)
+
+## Training Performance
+Accuracy
+![Accuracy](images/accuracy_plot.png)
+
+Loss
+![Loss](images/loss_plot.png)
