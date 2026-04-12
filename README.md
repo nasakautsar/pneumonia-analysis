@@ -56,6 +56,11 @@ Loss
 
 ---
 
+## Grad-Cam
+![Grad-Cam](images/gradcam_result.png)
+
+---
+
 ## Key Insights
 - The model achieves high recall for pneumonia (0.99), minimizing false negatives
 - Some false positives occur (normal predicted as pneumonia)
